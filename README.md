@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Thuc
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning golang, angular
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Please send me an email to thucvp.uit@gmail.com
 
 <!---
